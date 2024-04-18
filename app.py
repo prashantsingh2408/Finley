@@ -129,8 +129,8 @@ def main():
 
     text_splitter = CharacterTextSplitter(
         separator="\n",
-        chunk_size=100,
-        chunk_overlap=110,
+        chunk_size=768,
+        chunk_overlap=128,
         length_function=len
     )
     text_chunks = text_splitter.split_documents(text)
