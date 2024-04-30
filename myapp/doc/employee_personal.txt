@@ -1,0 +1,76 @@
+# Employee Personal Information
+
+## John Doe
+- **Employee ID:** 12345
+- **Department:** IT
+- **Job Title:** Software Engineer
+- **Date of Birth:** 1990-05-15
+- **Age:** 33 years
+- **Gender:** Male
+- **Marital Status:** Single
+- **Address:** 123 Main St, Cityville, State 12345
+- **Phone Number:** (123) 456-7890
+- **Email:** john.doe@company.com
+- **Emergency Contact:** Jane Doe (Sister), (987) 654-3210
+- **Joining Date:** 2018-06-01
+- **Total Experience:** 6 years
+- **Experience in Company:** 4 years
+
+### Employment Details
+- **Employment Type:** Full-Time
+- **Employment Status:** Active
+- **Reporting Manager:** Michael Johnson
+- **Manager's Email:** michael.johnson@company.com
+- **Direct Reports:** None
+
+### Compensation
+- **Base Salary:** $80,000 per annum
+- **Bonus/Commission:** 10% of Base Salary (Annual)
+- **Stock Options:** 5,000 options (Vesting over 4 years)
+
+### Benefits
+- **Health Insurance:** Company Sponsored Health Plan (Employee + Dependents)
+- **Life Insurance:** 2x Annual Salary
+- **Retirement Plan:** 401(k) with 5% employer contribution
+- **Paid Time Off:** 20 days per year
+
+### Bank Account
+- **Bank Name:** ABC Bank
+- **Account Number:** 987654321
+- **Account Type:** Checking
+
+### Provident Fund (PF)
+- **PF Number:** 123456789
+- **PF Contribution:** 12% of Basic Salary
+
+### Manager History
+- 2018-06-01 to 2020-12-31: Jane Smith
+- 2021-01-01 to Present: Michael Johnson
+
+### Project History
+- Project A (2018-06-01 to 2019-05-31)
+- Project B (2019-06-01 to 2020-12-31)
+- Project C (2021-01-01 to Present)
+
+### Increments
+- 2019-06-01: 8% increment
+- 2020-06-01: 5% increment
+- 2021-06-01: 10% increment
+- 2022-06-01: 7% increment
+
+### Training and Certifications
+- Certified Scrum Master (CSM)
+- AWS Certified Solutions Architect - Associate
+
+### Performance Reviews
+- 2019 Review: Exceeds Expectations
+- 2020 Review: Meets Expectations
+- 2021 Review: Outstanding
+- 2022 Review: Exceeds Expectations
+
+### Disciplinary Actions
+- None
+
+### Awards and Recognitions
+- Employee of the Quarter (Q4 2021)
+- Best Innovation Award (2022)
