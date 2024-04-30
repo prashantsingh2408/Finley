@@ -11,13 +11,13 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
 3. **Langchain**: Enhancing conversational capabilities.
 
 ## Features
-- **Common**:
+**Common**:
  - Notification
  - Automatic mail generation and sending
  - Knowledge base access
  - Document sharing and collaboration
 
-- **Employee Chatbot**:
+**Employee Chatbot**:
  - Check company policies
  - Manage attendance
  - Handle assignments
@@ -31,7 +31,7 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
  - Participate in employee surveys
  - Access training materials
 
-- **Recruiter Chatbot**:
+**Recruiter Chatbot**:
  - Post job openings
  - Screen applicants
  - Schedule interviews
@@ -45,7 +45,7 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
  - Coordinate with hiring managers
  - Maintain applicant tracking system
 
-- **HR Chatbot**:
+**HR Chatbot**:
  - Handle employee inquiries
  - Process leave requests
  - Conduct performance reviews
@@ -59,7 +59,7 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
  - Manage payroll and tax compliance
  - Facilitate employee onboarding and offboarding
 
-- **Manager Chatbot**:
+**Manager Chatbot**:
  - Assign tasks
  - Track project progress
  - Manage team schedules
@@ -73,7 +73,7 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
  - Facilitate team meetings and presentations
  - Manage employee development plans
 
-- **Admin**:
+**Admin**:
  - Access all features for comprehensive management
  - Manage user accounts
  - Generate data analytics reports
