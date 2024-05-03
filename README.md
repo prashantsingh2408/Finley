@@ -4,6 +4,11 @@ The Firm Management-System Chatbot is a versatile tool for firm management tasks
 
 [Figma Prototype](https://www.figma.com/file/UPkW95GdJJzXBwqmMyBh0K/Firm?type=whiteboard&node-id=0%3A1&t=sGmZpS9HljnnVE8z-1)
 
+[sheet](https://docs.google.com/spreadsheets/d/1AGK-7xTD_AOaBeQVapjMWzA71pQ63csAFR7v_ppZ91c/edit?usp=sharing)
+## Config
+- python 3.8
+- use python venv
+
 ## Tech Stack Used
 
 1. **Groq API**: Powering intelligence and natural language processing.
