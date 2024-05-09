@@ -1,6 +1,6 @@
 # myapp/steamlit_ur.py
 import streamlit as st
-from myapp import conversation
+from myapp import conversation_chroma
 from streamlit_chat import message
 
 def display_chat_history(chain):
@@ -102,7 +102,7 @@ def display_chat_history(chain):
             submit_button = st.form_submit_button(label="Resolve")
             if submit_button and user_input:
                 with st.spinner("Let me check ......"):
-                    output = conversation.conversation_chat(
+                    output = conversation_chroma.conversation_chat(
                         query=user_input,
                         chain=chain,
                         history=st.session_state["history"],
@@ -128,7 +128,7 @@ def display_chat_history(chain):
                                 f"Save Message {i + 1}", key=save_button_key
                             )
                         if save_button:
-                            conversation.save_message(user_message, chatbot_message)
+                            conversation_chroma.save_message(user_message, chatbot_message)
                             st.session_state[save_button_key] = True
 
                         message(
